@@ -16,4 +16,8 @@
 
 You can add me on [Discord](https://discord.com/users/522123053581467669)
 
+## 📊 My statistics
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-cetus&layout=compact)](#)
+
 ![Cetus's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-cetus&show_icons=true&theme=dark)

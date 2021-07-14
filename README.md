@@ -12,6 +12,7 @@
 - [Bliter](https://bliter.devioo.com)
 - [DEVIOO](https://devioo.com)
 - [htmlspecialchars_decode (npm package)](https://cetus.tk/html_decode) 
+- [Discord modmail bot](https://github.com/dev-cetus/discord-modmail)
 
 
 You can add me on [Discord](https://discord.com/users/522123053581467669)

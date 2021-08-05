@@ -9,9 +9,9 @@
 
 ## 💎 My projects :
 - [My personnal website](https://cetus.tk)
+- [DEVIOO](https://devioo.com) 
 - [Bliter](https://bliter.devioo.com)
-- [DEVIOO](https://devioo.com)
-- [htmlspecialchars_decode (npm package)](https://cetus.tk/html_decode) 
+- [Cloud](https://github.com/StudioDEVIOO/cloud)
 - [Discord modmail bot](https://github.com/dev-cetus/discord-modmail)
 
 

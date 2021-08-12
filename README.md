@@ -10,7 +10,7 @@
 ## 💎 My projects :
 - [My personnal website](https://cetus.tk)
 - [DEVIOO](https://devioo.com) 
-- [Bliter](https://bliter.devioo.com)
+- [Bliter](https://bliter.xyz)
 - [Cloud](https://github.com/StudioDEVIOO/cloud)
 - [Discord modmail bot](https://github.com/dev-cetus/discord-modmail)
 

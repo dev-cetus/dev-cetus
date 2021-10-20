@@ -1,6 +1,6 @@
 # 👋 My presentation
 
-*I am a 15 year old young developer. I learned everything on my own using several platforms including OpenClassRoom. I am currently studying computer science with the aim of being a computer engineer in several years.*
+*I am a young developer. I learned everything on my own using several platforms including OpenClassRoom. I am currently studying computer science with the aim of being a computer engineer in several years.*
 
 #### **» *Languages***<br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

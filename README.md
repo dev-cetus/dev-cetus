@@ -10,6 +10,7 @@
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 #### **» *Technologies and software***<br>
 ![Mariadb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -33,3 +34,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-cetus&layout=compact)](#)
 
 ![Cetus's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-cetus&show_icons=true&theme=vue)
+<br>
+<br>
+*[icons](https://github.com/alexandresanlim/Badges4-README.md-Profile)*

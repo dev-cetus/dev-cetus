@@ -8,7 +8,7 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 #### **» *Technologies and software***<br>
@@ -37,4 +37,4 @@
 ![Cetus's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-cetus&show_icons=true&theme=vue)
 <br>
 <br>
-*[icons](https://github.com/alexandresanlim/Badges4-README.md-Profile)*
+*[icons srouce](https://github.com/alexandresanlim/Badges4-README.md-Profile)*

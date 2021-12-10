@@ -37,4 +37,4 @@
 ![Cetus's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-cetus&show_icons=true&theme=vue)
 <br>
 <br>
-*[icons srouce](https://github.com/alexandresanlim/Badges4-README.md-Profile)*
+*[icons source](https://github.com/alexandresanlim/Badges4-README.md-Profile)*
